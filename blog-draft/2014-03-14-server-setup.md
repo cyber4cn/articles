@@ -29,7 +29,7 @@ passwd
 首先，添加一个用户组（这里假定为admin用户组）。
 
 <blockquote><pre><code class="language-bash">
-addgroup admin
+groupadd admin
 
 </code></pre></blockquote>
 
